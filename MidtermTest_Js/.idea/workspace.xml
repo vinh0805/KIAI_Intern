@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0327470e-f41c-4db9-9edc-4e3653f2b80e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bTgxz6YjRnLhQhYGzi6MRgupih" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0327470e-f41c-4db9-9edc-4e3653f2b80e" name="Default Changelist" comment="" />
+      <created>1588661747517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588661747517</updated>
+      <workItem from="1588661748874" duration="4725000" />
+      <workItem from="1588666919055" duration="4680000" />
+      <workItem from="1588673931804" duration="4311000" />
+      <workItem from="1588815703901" duration="12883000" />
+      <workItem from="1588835682085" duration="3977000" />
+      <workItem from="1589002460687" duration="767000" />
+      <workItem from="1589003800710" duration="570000" />
+      <workItem from="1589248645995" duration="8611000" />
+      <workItem from="1589427037097" duration="22612000" />
+      <workItem from="1589473707331" duration="4783000" />
+      <workItem from="1589479073078" duration="2744000" />
+      <workItem from="1589506342824" duration="10999000" />
+      <workItem from="1589537124158" duration="4023000" />
+      <workItem from="1589600147897" duration="4717000" />
+      <workItem from="1589605307431" duration="1170000" />
+      <workItem from="1589766114053" duration="27000" />
+      <workItem from="1589766179118" duration="7111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="41" key="#Inspections" timestamp="1589441833452">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="41" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1589441833452" />
+    <state x="363" y="119" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589766122018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="119" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1589766122018" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1589473743809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589473743809" />
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1589766319868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589766319868" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1589251018442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589251018442" />
+  </component>
+</project>

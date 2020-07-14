@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        canvas {
+            width: 50px;
+            height: 50px;
+        }
+    </style>
+    <script src="SimpleImage.js"> </script>
+</head>
+<body>
+<input type="file" id="finput" onchange="upload();"/>
+<canvas id="can"></canvas>
+
+<script>
+    function upload() {
+        let imgcanvas = document.getElementById("can");
+        let fileinput = document.getElementById("finput");
+        let image = new SimpleImage(fileinput);
+        image.drawTo(imgcanvas);
+    }
+</script>
+</body>
+</html>
